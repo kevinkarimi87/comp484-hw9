@@ -39,3 +39,6 @@ I learned that Number() turns a string into a number, but returns NaN if the str
 
 What did you learn about displaying results in the browser?
 I learned that textContent shows plain text while innerHTML reads HTML tags like `<br>`, and I needed that to put each result on its own line.
+
+Extra Credit
+Used a ternary operator in Part 3 to label each exam score as Pass or Fail.
